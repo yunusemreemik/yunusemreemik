@@ -20,7 +20,7 @@ This repo is just the beginning version of unlimited career.
     <img src="https://img.shields.io/badge/%20-instagram-fbad50" alt="https://www.instagram.com/yunusemreemik/">
 </a>
 <a href="mailto:yunus_emre3497@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:yunus_emre3497@hotmail.com">
+    <img src="https://img.shields.io/badge/%20-Hotmail-B23121" alt="mailto:yunus_emre3497@hotmail.com">
 </a>
 <a href="https://www.reddit.com/user/yunusemreemik" target="_blank">
     <img src="https://img.shields.io/badge/-follow-orange" alt="https://www.reddit.com/user/yunusemreemik">
