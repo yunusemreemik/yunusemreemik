@@ -1,9 +1,9 @@
 ## Welcome My Lord 👋
  A github profile of Yunus Emre Emik. I am an innovative Software engineer, who has always been looking for new opportunities and experiences. Experienced in Machine Learning; object-oriented programming; developing, testing and debugging code; designing interfaces; and administering systems and networks; quick learn and master new technologies; successful working in both, team and self-directed settings. And Data Scientist at [SADELABS](https://sadelabs.com/) 
 
-<img src="https://github.com/yunusemreemik/yunusemreemik/blob/master/7LIp.gif" alt="Python-powered" width=200 height=50 margin-top=20 align="right">
-<img src="https://github.com/yunusemreemik/yunusemreemik/blob/master/7LIp.gif" alt="Python-powered" width=200 height=50 margin-top=20 align="right">
-<img src="https://github.com/yunusemreemik/yunusemreemik/blob/master/7LIp.gif" alt="Python-powered" width=200 height=50 margin-top=20 align="right">
+<img src="https://github.com/yunusemreemik/yunusemreemik/blob/master/7LIp.gif" alt="Python-powered" width=200 height=51 margin-top=20 align="right">
+<img src="https://github.com/yunusemreemik/yunusemreemik/blob/master/7LIp.gif" alt="Python-powered" width=200 height=51 margin-top=20 align="right">
+<img src="https://github.com/yunusemreemik/yunusemreemik/blob/master/7LIp.gif" alt="Python-powered" width=200 height=51 margin-top=20 align="right">
 
 ### What I'm use? 🛠  
 I'm crazy about this cominity.I prefer Python programming cause it has many options for setting programmers free. 
