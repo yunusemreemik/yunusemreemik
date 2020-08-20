@@ -6,7 +6,8 @@
 <img src="https://github.com/yunusemreemik/yunusemreemik/blob/master/7LIp.gif" alt="Python-powered" width=203 height=55 margin-top=20 align="right">
 
 ### What I'm use? 🛠  
-I'm crazy about this cominity.I prefer Python programming cause it has many options for setting programmers free. 
+I'm crazy about this cominity.
+I prefer Python programming cause it has many options for setting programmers free. 
 
 This repo is just the beginning version of unlimited career.
 
