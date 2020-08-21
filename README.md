@@ -8,7 +8,7 @@
 I'm crazy about this cominity.
 I prefer Python programming cause it has many options for setting programmers free. 
 
-<img src="https://github.com/yunusemreemik/yunusemreemik/blob/master/index.c4956a18357e.gif" alt="Python-powered" width=270 height=203 margin-top=20 align="right">
+<img src="https://github.com/yunusemreemik/yunusemreemik/blob/master/index.c4956a18357e.gif" alt="Python-powered" width=200 height=150 margin-top=20 align="right">
 
 This repo is just the beginning version of unlimited career.
 
