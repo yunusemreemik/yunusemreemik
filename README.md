@@ -4,7 +4,7 @@
 <img src="https://github.com/yunusemreemik/yunusemreemik/blob/master/pythongif_2.gif" alt="Python-powered" width=203 height=203 margin-top=20 align="right">
 
 
-### What I'm 3orking with? 🛠  
+### What I'm Working with? 🛠  
 I'm crazy about this cominity.
 I prefer Python programming cause it has many options for setting programmers free. 
 
