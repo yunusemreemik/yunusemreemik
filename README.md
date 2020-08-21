@@ -29,6 +29,10 @@ This repo is just the beginning version of unlimited career.
 <a href="https://www.reddit.com/user/yunusemreemik" target="_blank">
     <img src="https://img.shields.io/badge/-Reddit-orange" alt="https://www.reddit.com/user/yunusemreemik">
 </a>
+<a href="https://stackshare.io/yunusemreemik/personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="https://stackshare.io/yunusemreemik/personal-stack">
+</a>
+
 
 <!--
 **yunusemreemik/yunusemreemik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
