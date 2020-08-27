@@ -5,8 +5,8 @@
 
 
 ### What I'm Working with? 🛠  
-I'm crazy about this cominity.
-I prefer Python programming cause it has many options for setting programmers free. 
+I'm crazy about this community.
+I prefer Python programming cause it has many options for setting programmers free.
 
 <img src="https://github.com/yunusemreemik/yunusemreemik/blob/master/index.c4956a18357e.gif" alt="Python-powered" width=200 height=150 margin-top=20 align="right">
 
