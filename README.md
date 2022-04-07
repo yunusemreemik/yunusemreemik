@@ -1,5 +1,5 @@
 ## Welcome My Lord 👋
- A github profile of Yunus Emre Emik. I am an innovative Software engineer, who has always been looking for new opportunities and experiences. Experienced in Machine Learning; object-oriented programming; developing, testing and debugging code; designing interfaces; and administering systems and networks; quick learn and master new technologies; successful working in both, team and self-directed settings.
+ A github profile of Yunus Emre Emik.Good at nlp. I am an innovative Software engineer, who has always been looking for new opportunities and experiences. Experienced in Machine Learning; object-oriented programming; developing, testing and debugging code; designing interfaces; and administering systems and networks; quick learn and master new technologies; successful working in both, team and self-directed settings.
 
 <img src="https://github.com/yunusemreemik/yunusemreemik/blob/master/pythongif_2.gif" alt="Python-powered" width=203 height=203 margin-top=20 align="right">
 
