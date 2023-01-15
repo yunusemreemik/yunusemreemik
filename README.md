@@ -12,7 +12,7 @@ I prefer Python programming cause it has many options for setting programmers fr
 
 This repo is just the beginning version of unlimited career...
 
-[<img src="https://yunusemreemik-ivory.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/k5jyafrtmpmasv5v7mmb6ytwl)
+
 
 <a href="https://twitter.com/Yunusemreemik" target="_blank">
     <img src="https://img.shields.io/badge/%20-Twitter-%231DA1F2" alt="https://twitter.com/Yunusemreemik">
